@@ -75,4 +75,4 @@ The following are scripts for different networks and datasets, run according to 
 ## References
 Appreciate the work from the following repositories:
 
-- [EGENet]([(https://github.com/Jnmz/EGENet-IG24)]) (Our EdgeRefNet is implemented on the code provided in this repository)
+- [EGENet]([(https://github.com/Jnmz/EGENet-IG24)]) (Our EdgeRefNet is implemented on the code provided in this repository).
