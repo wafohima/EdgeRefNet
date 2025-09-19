@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ```
 """
-Change detection data set with pixel-level binary labels；(WHU256 or LEVIR-CD-256)
+Change detection data set with pixel-level binary labels；(WHU_CD_256 or LEVIR-CD-256)
 ├─A
 ├─B
 ├─label
