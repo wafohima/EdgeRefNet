@@ -58,18 +58,18 @@ and put it into the pretrain directory.
 The following are scripts for different networks and datasets, run according to your needs
 
   
-    python main_cd.py --net_G DTCDSCN --project_name DTCDSCN_LEVIR_CD --use_tta
-    python main_cd.py --net_G DTCDSCN --project_name DTCDSCN_WHU_CD --use_tta
-    python main_cd.py --net_G SNUNet --project_name SNUNet_LEVIR_CD --use_tta
-    python main_cd.py --net_G SNUNet --project_name SNUNet_WHU_CD --use_tta
-    python main_cd.py --net_G BIT --project_name BIT_LEVIR_CD --use_tta
-    python main_cd.py --net_G BIT --project_name BIT_WHU_CD --use_tta
-    python main_cd.py --net_G ChangeFormer --project_name ChangeFormer_LEVIR_CD --use_tta
-    python main_cd.py --net_G ChangeFormer --project_name ChangeFormer_WHU_CD --use_tta
-    python main_cd.py --net_G EGCTNet --project_name EGCTNet_LEVIR_CD --use_tta
-    python main_cd.py --net_G EGCTNet --project_name EGCTNet_WHU_CD --use_tta
-    python main_cd.py --net_G EdgeRefNet --project_name EdgeRefNet_LEVIR_CD --use_tta
-    python main_cd.py --net_G EdgeRefNet --project_name EdgeRefNet_WHU_CD --use_tta
+    python main_cd.py --net_G DTCDSCN --project_name DTCDSCN_LEVIR_CD 
+    python main_cd.py --net_G DTCDSCN --project_name DTCDSCN_WHU_CD 
+    python main_cd.py --net_G SNUNet --project_name SNUNet_LEVIR_CD 
+    python main_cd.py --net_G SNUNet --project_name SNUNet_WHU_CD 
+    python main_cd.py --net_G BIT --project_name BIT_LEVIR_CD 
+    python main_cd.py --net_G BIT --project_name BIT_WHU_CD 
+    python main_cd.py --net_G ChangeFormer --project_name ChangeFormer_LEVIR_CD 
+    python main_cd.py --net_G ChangeFormer --project_name ChangeFormer_WHU_CD 
+    python main_cd.py --net_G EGCTNet --project_name EGCTNet_LEVIR_CD 
+    python main_cd.py --net_G EGCTNet --project_name EGCTNet_WHU_CD 
+    python main_cd.py --net_G EdgeRefNet --project_name EdgeRefNet_LEVIR_CD 
+    python main_cd.py --net_G EdgeRefNet --project_name EdgeRefNet_WHU_CD 
    
    
 ## References
