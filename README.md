@@ -5,7 +5,7 @@ Here, we provide the PyTorch implementation of the paper: EdgeRefNet: Edge-Guide
 For more information, please see our paper. 
 
 ## Network Architecture
-![image](./images/EdgeRefNet.pdf)
+![image](./https://github.com/wafohima/EdgeRefNet_pytorch/blob/main/EdgeRefNet.pdf)
 
 ## 1. Environment setup
 
